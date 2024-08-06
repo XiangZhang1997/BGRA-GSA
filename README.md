@@ -13,7 +13,6 @@ Please cite:
   number={9},
   pages={4421-4432}
   }
-## References
 The ​conference version:
   @INPROCEEDINGS{9669834,
   author={Zhang, Xiang and Li, Xuanya and Hu, Kai and Gao, Xieping},
@@ -24,4 +23,4 @@ The ​conference version:
   pages={1619-1622}
   }
 
-
+1. **Doe, J.** (2008). *Title of the Article*. *Journal Name*, 12(3), 123-134. [DOI](https://doi.org/10.1234/example)
