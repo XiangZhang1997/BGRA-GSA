@@ -3,6 +3,7 @@
 The official implementation of BGRA-GSA
 
 Please cite:
+## References
 @ARTICLE{10149315,
   author={Hu, Kai and Zhang, Xiang and Lee, Dongjin and Xiong, Dapeng and Zhang, Yuan and Gao, Xieping},
   journal={IEEE Journal of Biomedical and Health Informatics}, 
@@ -12,7 +13,7 @@ Please cite:
   number={9},
   pages={4421-4432}
   }
-
+## References
 The ​conference version:
   @INPROCEEDINGS{9669834,
   author={Zhang, Xiang and Li, Xuanya and Hu, Kai and Gao, Xieping},
