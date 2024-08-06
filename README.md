@@ -1,5 +1,5 @@
 # BGRA-GSA
-![](https://img.shields.io/badge/license-BGRA-GSA-blue)
+![](https://img.shields.io/badge/license-MIT-blue)
 The official implementation of BGRA-GSA
 
 Please cite:
