@@ -1,11 +1,11 @@
-# BGRA-GSA
+# BGRA-GSA: Boundary-Guided and Region-Aware Network With Global Scale-Adaptive for Accurate Segmentation of Breast Tumors in Ultrasound Images (IEEE JBHI)
 ![](https://img.shields.io/badge/license-MIT-blue)
 The official implementation of BGRA-GSA
 
 Please cite:
 ## References
 
-1. **Hu, K., Zhang, X., Lee, D., Xiong, D., Zhang, Y., & Gao, X.**  
+**Hu, K., Zhang, X., Lee, D., Xiong, D., Zhang, Y., & Gao, X.**  
    "Boundary-Guided and Region-Aware Network With Global Scale-Adaptive for Accurate Segmentation of Breast Tumors in Ultrasound Images."  
    *IEEE Journal of Biomedical and Health Informatics*, vol. 27, no. 9, 2023, pp. 4421-4432.  
    BibTeX:
